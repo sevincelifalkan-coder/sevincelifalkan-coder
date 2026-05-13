@@ -1,6 +1,16 @@
 # Sevinç Elif Şen
 
-Health Economist & HTA Researcher. I build decision models, interactive HEOR tools, and structured knowledge resources for health technology assessment.
+<img src="https://avatars.githubusercontent.com/sevincelifalkan-coder" alt="Sevinç Elif Şen — Health Economist & HTA Researcher" width="180" align="right" />
+
+**Health Economist & HTA Researcher.** I build decision models, interactive HEOR tools, and structured knowledge resources for health technology assessment.
+
+- 🌐 **Website:** [sevincelifsen.netlify.app](https://sevincelifsen.netlify.app)
+- 📚 **Knowledge Base:** [htaknowledgebase.org](https://htaknowledgebase.org)
+- 💼 **LinkedIn:** [linkedin.com/in/sevinc-elif-s-61b3b967](https://www.linkedin.com/in/sevinc-elif-s-61b3b967/)
+- 🎓 **Google Scholar:** [Sevinc Elif Sen](https://scholar.google.com/citations?user=sevinc-elif-sen)
+- 📧 sevincelifalkan@gmail.com
+
+---
 
 ## Projects
 
@@ -18,9 +28,6 @@ Cost-effectiveness analysis · Budget impact modelling · Discrete choice experi
 - A Simulation-Based DCE Framework for Alzheimer's DMT Implementation (Research Square 2025)
 - An Open-Access Interactive Platform for DCE Analysis in HTA (SSRN 2025)
 
-## Find me
+---
 
-- 🌐 [sevincelifsen.netlify.app](https://sevincelifsen.netlify.app)
-- 📚 [HTA Knowledge Base](https://htaknowledgebase.org)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sevinc-elif-s-61b3b967/)
-- 📧 sevincelifalkan@gmail.com
+<sub>Sevinç Elif Şen · Sevinc Elif Sen · Health Economist · HTA Researcher · Decision Modeller · Dublin / Ireland</sub>
